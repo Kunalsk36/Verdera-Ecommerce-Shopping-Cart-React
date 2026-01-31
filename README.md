@@ -2,6 +2,7 @@
 
 Verdera is a premium, high-performance ecommerce shopping cart application built with React 19 and Tailwind CSS 4. It features a modern "Sage & Emerald" aesthetic, smooth spring-based animations, and a seamless user experience designed for the eco-conscious shopper.
 
+## try out - [https://verdera-ecommerce-shopping-cart-rea.vercel.app/](https://verdera-ecommerce-shopping-cart-rea.vercel.app/)
 ## ✨ Features
 
 - **🛍️ Dynamic Product Gallery**: A responsive grid of premium curated essentials.
